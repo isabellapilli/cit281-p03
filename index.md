@@ -5,7 +5,7 @@ Learning Objectives:
 
 1. Gain experience interpreting functional descriptions 
    and specifications to complete an assignment
-2. Gain experience breaking a project into manageable components
+2. Gain experience breaking project to manageable components
 3. Gain experience writing and executing non-web server 
    Node.js JavaScript code using VSCode
 4. Practice creating and using code modules
@@ -19,12 +19,13 @@ Learning Objectives:
 Overview: 
 
 You will be creating a "coinage" code module that is capable 
-of calculating the total value of coin objects. After completing 
-the "coinage" code module functionality, you will then update the 
-"server" code file as a true Node.js web server using the Fastify 
-package. The updated "server" file will display an initial web 
-page with web links to to test the "coinage" code. The initial 
-web page will be loaded from a file.
+of calculating the total value of coin objects. After
+completing the "coinage" code module functionality, you 
+will then update the "server" code file as a true Node.js 
+web server using the Fastify package. The updated "server" 
+file will display an initial web page with web links to to 
+test the "coinage" code. The initial web page will be loaded 
+from a file.
 
 
 ```
